@@ -14,6 +14,6 @@ model "370.h5" download at the link below.
 - Gazebo Simulation is turned on.
 - Model Detection: https://drive.google.com/drive/folders/1-PSXko-rbEp4iNnfnL8Q4yf9ht7IIlh9?usp=sharing
 
-  <br> With talker_excel.py </br>
-  - Change path of code by: Right click on cmd.xlsx on VSC, choose "Copy path" and paste it in "path" variable in code
-  - Install openpyxl (PyPi): https://pypi.org/project/openpyxl/
+<br> <b> With talker_excel.py <b> </br>
+- Change path of code by: Right click on cmd.xlsx on VSC, choose "Copy path" and paste it in "path" variable in code
+- Install openpyxl (PyPi): https://pypi.org/project/openpyxl/
